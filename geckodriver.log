@@ -1,0 +1,589 @@
+1529215948855	geckodriver	INFO	geckodriver 0.21.0
+1529215948863	geckodriver	INFO	Listening on 127.0.0.1:50334
+1529216922971	geckodriver	INFO	geckodriver 0.21.0
+1529216922989	geckodriver	INFO	Listening on 127.0.0.1:51787
+1529216924004	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.fQnMGzyWdN0A"
+2018-06-16 23:28:45.443 plugin-container[3672:334778] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529216925884	Marionette	INFO	Listening on port 51798
+1529216925975	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-16 23:28:46.387 plugin-container[3673:334858] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8837, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1529217245711	geckodriver	INFO	geckodriver 0.21.0
+1529217245719	geckodriver	INFO	Listening on 127.0.0.1:51876
+1529217246740	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.h4BvfImKQrXV"
+2018-06-16 23:34:08.026 plugin-container[3706:353892] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529217248510	Marionette	INFO	Listening on port 51887
+1529217248604	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-16 23:34:09.073 plugin-container[3707:354056] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529217256418	geckodriver	INFO	geckodriver 0.21.0
+1529217256425	geckodriver	INFO	Listening on 127.0.0.1:51947
+1529217257444	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.jc9IE4Adzxec"
+2018-06-16 23:34:18.963 plugin-container[3710:354780] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529217259507	Marionette	INFO	Listening on port 51958
+1529217259520	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-16 23:34:19.993 plugin-container[3711:354905] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1529217999828	geckodriver	INFO	geckodriver 0.21.0
+1529217999836	geckodriver	INFO	Listening on 127.0.0.1:52052
+1529218000857	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.nJcjsILPR6V9"
+2018-06-16 23:46:42.116 plugin-container[3771:404752] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529218002576	Marionette	INFO	Listening on port 52063
+1529218002637	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-16 23:46:43.117 plugin-container[3772:404840] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1529218083342	geckodriver	INFO	geckodriver 0.21.0
+1529218083352	geckodriver	INFO	Listening on 127.0.0.1:52125
+1529218084377	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.JLbvHrkzS0Pi"
+2018-06-16 23:48:05.699 plugin-container[3781:410924] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x752b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529218086177	Marionette	INFO	Listening on port 52136
+1529218086242	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-16 23:48:06.687 plugin-container[3782:411029] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1529218625416	geckodriver	INFO	geckodriver 0.21.0
+1529218625424	geckodriver	INFO	Listening on 127.0.0.1:52211
+1529218626447	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.8H4xSlRmGHl1"
+2018-06-16 23:57:07.772 plugin-container[3827:447392] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529218628182	Marionette	INFO	Listening on port 52222
+1529218628201	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-16 23:57:08.761 plugin-container[3828:447466] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529218631233	geckodriver	INFO	geckodriver 0.21.0
+1529218631241	geckodriver	INFO	Listening on 127.0.0.1:52282
+1529218632256	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.8KOX2QnQ5gl6"
+2018-06-16 23:57:13.562 plugin-container[3832:447630] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529218633984	Marionette	INFO	Listening on port 52293
+1529218634025	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-16 23:57:14.536 plugin-container[3833:447707] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1529297519728	geckodriver	INFO	geckodriver 0.21.0
+1529297519746	geckodriver	INFO	Listening on 127.0.0.1:49407
+1529297520764	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.KkuIYD3cOH6y"
+2018-06-17 21:52:02.510 plugin-container[795:29306] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529297523002	Marionette	INFO	Listening on port 49418
+1529297523044	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-17 21:52:03.502 plugin-container[796:29453] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1529297530088	geckodriver	INFO	geckodriver 0.21.0
+1529297530095	geckodriver	INFO	Listening on 127.0.0.1:49479
+1529297531112	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.gZ4GtndqxQtD"
+2018-06-17 21:52:12.456 plugin-container[799:30270] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529297532900	Marionette	INFO	Listening on port 49490
+1529297532973	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-17 21:52:13.435 plugin-container[800:30381] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1529380281873	geckodriver	INFO	geckodriver 0.21.0
+1529380281882	geckodriver	INFO	Listening on 127.0.0.1:52365
+1529380282902	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.hDB1IN3wCw13"
+2018-06-18 20:51:24.477 plugin-container[1662:244987] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529380284926	Marionette	INFO	Listening on port 52380
+1529380284966	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-18 20:51:25.515 plugin-container[1663:245110] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7147, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1529381342839	geckodriver	INFO	geckodriver 0.21.0
+1529381342847	geckodriver	INFO	Listening on 127.0.0.1:55620
+1529381343873	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.pA50DJER1Kqs"
+2018-06-18 21:09:05.200 plugin-container[1686:262134] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529381345688	Marionette	INFO	Listening on port 55635
+1529381345735	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-18 21:09:06.211 plugin-container[1687:262213] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529381454056	geckodriver	INFO	geckodriver 0.21.0
+1529381454064	geckodriver	INFO	Listening on 127.0.0.1:56100
+1529381455085	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.uj05Ixqu68tH"
+2018-06-18 21:10:56.505 plugin-container[1703:266389] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529381456996	Marionette	INFO	Listening on port 56115
+1529381457031	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-18 21:10:57.495 plugin-container[1704:266528] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529381616175	geckodriver	INFO	geckodriver 0.21.0
+1529381616183	geckodriver	INFO	Listening on 127.0.0.1:56788
+1529381617207	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.RBnI5gCHnVkH"
+2018-06-18 21:13:38.576 plugin-container[1727:277353] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529381619071	Marionette	INFO	Listening on port 56803
+1529381619169	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-18 21:13:39.542 plugin-container[1728:277433] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529382063483	geckodriver	INFO	geckodriver 0.21.0
+1529382063491	geckodriver	INFO	Listening on 127.0.0.1:58362
+1529382064514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.PKINLvFBjvqy"
+2018-06-18 21:21:05.914 plugin-container[1740:289827] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529382066384	Marionette	INFO	Listening on port 58377
+1529382066483	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-18 21:21:06.888 plugin-container[1741:289927] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1529382095846	geckodriver	INFO	geckodriver 0.21.0
+1529382095854	geckodriver	INFO	Listening on 127.0.0.1:58563
+1529382096880	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.jPAnSI3qLKSh"
+2018-06-18 21:21:38.390 plugin-container[1753:292344] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529382098886	Marionette	INFO	Listening on port 58578
+1529382098967	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-18 21:21:39.391 plugin-container[1754:292478] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529382180914	geckodriver	INFO	geckodriver 0.21.0
+1529382180922	geckodriver	INFO	Listening on 127.0.0.1:58976
+1529382181945	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.W0u1xQSPygm1"
+2018-06-18 21:23:03.639 plugin-container[1768:297757] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529382184211	Marionette	INFO	Listening on port 58991
+1529382184230	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-18 21:23:04.818 plugin-container[1769:297947] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529383506917	geckodriver	INFO	geckodriver 0.21.0
+1529383506926	geckodriver	INFO	Listening on 127.0.0.1:64459
+1529383507952	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.izZiHAGs4VQT"
+2018-06-18 21:45:09.322 plugin-container[1887:341421] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529383509792	Marionette	INFO	Listening on port 64474
+1529383509816	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-18 21:45:10.280 plugin-container[1888:341552] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1529383528958	geckodriver	INFO	geckodriver 0.21.0
+1529383528966	geckodriver	INFO	Listening on 127.0.0.1:64592
+1529383529980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.XrixqdEPd9Bk"
+2018-06-18 21:45:31.433 plugin-container[1898:342945] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529383531855	Marionette	INFO	Listening on port 64603
+1529383531949	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-18 21:45:32.391 plugin-container[1899:343096] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-06-18 21:47:51.426 plugin-container[1936:348976] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-06-18 21:48:15.205 plugin-container[1938:350524] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://js.js-bn.com/static/redesign/release/js/bn.js?v5.11.5, line 3: TypeError: b.replace is not a function
+JavaScript error: https://js.js-bn.com/static/redesign/release/js/bn.js?v5.11.5, line 3: TypeError: b.replace is not a function
+1529385077347	geckodriver	INFO	geckodriver 0.21.0
+1529385077356	geckodriver	INFO	Listening on 127.0.0.1:54187
+1529385078377	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.jzOdtnaLe0wh"
+2018-06-18 22:11:19.922 plugin-container[2064:403213] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529385080448	Marionette	INFO	Listening on port 54202
+1529385080546	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-18 22:11:20.919 plugin-container[2065:403300] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529385112274	geckodriver	INFO	geckodriver 0.21.0
+1529385112282	geckodriver	INFO	Listening on 127.0.0.1:54382
+1529385113305	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.605LukXq7Mix"
+2018-06-18 22:11:54.601 plugin-container[2076:405932] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529385115087	Marionette	INFO	Listening on port 54397
+1529385115172	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-18 22:11:55.633 plugin-container[2077:406008] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529385382669	geckodriver	INFO	geckodriver 0.21.0
+1529385382678	geckodriver	INFO	Listening on 127.0.0.1:55539
+1529385383700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.oUZ6qZkoiHH4"
+2018-06-18 22:16:25.235 plugin-container[2092:426521] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529385385683	Marionette	INFO	Listening on port 55558
+1529385385763	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-18 22:16:26.264 plugin-container[2093:426695] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529366484, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529366484, line 3: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529385460932	geckodriver	INFO	geckodriver 0.21.0
+1529385460941	geckodriver	INFO	Listening on 127.0.0.1:55931
+1529385461965	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.1gNS82D4oXen"
+2018-06-18 22:17:43.353 plugin-container[2106:431687] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529385463915	Marionette	INFO	Listening on port 55946
+1529385463933	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-18 22:17:44.417 plugin-container[2107:431775] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529366484, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529366484, line 3: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529385494464	geckodriver	INFO	geckodriver 0.21.0
+1529385494472	geckodriver	INFO	Listening on 127.0.0.1:56137
+1529385495497	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.Z1XUZ29WjaZM"
+2018-06-18 22:18:16.871 plugin-container[2120:434289] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529385497428	Marionette	INFO	Listening on port 56148
+1529385497462	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-18 22:18:17.919 plugin-container[2121:434466] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529366484, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529366484, line 3: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+2018-06-18 22:24:18.028 plugin-container[2147:457830] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[Child 1938, MediaPlayback #3] WARNING: Decoder=14d1bb7a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3445
+[Child 1938, MediaPlayback #1] WARNING: Decoder=14d1bb7a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3445
+[Child 1938, MediaPlayback #3] WARNING: Decoder=14d1bb7a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3445
+1529472368024	geckodriver	INFO	geckodriver 0.21.0
+1529472368039	geckodriver	INFO	Listening on 127.0.0.1:50897
+1529472369066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.wRz0XM9CvJJN"
+2018-06-19 22:26:10.656 plugin-container[3114:891531] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529472371102	Marionette	INFO	Listening on port 50912
+1529472371143	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-19 22:26:11.728 plugin-container[3115:891708] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529472485333	geckodriver	INFO	geckodriver 0.21.0
+1529472485343	geckodriver	INFO	Listening on 127.0.0.1:51439
+1529472486369	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.7Evh6oLspenx"
+2018-06-19 22:28:07.684 plugin-container[3133:900400] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529472488240	Marionette	INFO	Listening on port 51454
+1529472488312	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-19 22:28:08.766 plugin-container[3134:900585] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+1529472541534	geckodriver	INFO	geckodriver 0.21.0
+1529472541542	geckodriver	INFO	Listening on 127.0.0.1:51709
+1529472542564	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.Rf55NiPADnu0"
+2018-06-19 22:29:04.135 plugin-container[3143:903714] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529472544661	Marionette	INFO	Listening on port 51724
+1529472544727	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-19 22:29:05.153 plugin-container[3144:903799] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+1529472607765	geckodriver	INFO	geckodriver 0.21.0
+1529472607774	geckodriver	INFO	Listening on 127.0.0.1:52015
+1529472608797	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.HnrjhZARsINE"
+2018-06-19 22:30:10.441 plugin-container[3158:908462] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529472610912	Marionette	INFO	Listening on port 52030
+1529472610979	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-19 22:30:11.507 plugin-container[3159:908564] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529473340372	geckodriver	INFO	geckodriver 0.21.0
+1529473340381	geckodriver	INFO	Listening on 127.0.0.1:54703
+1529473341405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.GRkLqekAkotO"
+2018-06-19 22:42:22.886 plugin-container[3299:946952] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8607, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529473343362	Marionette	INFO	Listening on port 54718
+1529473343461	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-19 22:42:23.876 plugin-container[3300:947139] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529473374574	geckodriver	INFO	geckodriver 0.21.0
+1529473374582	geckodriver	INFO	Listening on 127.0.0.1:54886
+1529473375600	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.M8p4R2NsK1FX"
+2018-06-19 22:42:57.005 plugin-container[3312:949945] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529473377488	Marionette	INFO	Listening on port 54901
+1529473377564	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-19 22:42:58.043 plugin-container[3313:950172] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529455378, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529455378, line 3: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529473699215	geckodriver	INFO	geckodriver 0.21.0
+1529473699222	geckodriver	INFO	Listening on 127.0.0.1:56190
+1529473700246	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.ph43R8IkgQ93"
+2018-06-19 22:48:21.652 plugin-container[3372:969062] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529473702098	Marionette	INFO	Listening on port 56205
+1529473702197	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-19 22:48:22.607 plugin-container[3373:969167] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529455378, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529455378, line 3: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-06-19 23:05:34.093 plugin-container[3579:1048005] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529475377973	geckodriver	INFO	geckodriver 0.21.0
+1529475377990	geckodriver	INFO	Listening on 127.0.0.1:63515
+1529475379007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.iheAzz6Qa5fy"
+2018-06-19 23:16:20.557 plugin-container[3676:1084619] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529475381075	Marionette	INFO	Listening on port 63530
+1529475381189	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-19 23:16:21.578 plugin-container[3677:1084800] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529475478457	geckodriver	INFO	geckodriver 0.21.0
+1529475478470	geckodriver	INFO	Listening on 127.0.0.1:63986
+1529475479491	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.R00Qgbmb34Nd"
+2018-06-19 23:18:01.096 plugin-container[3711:1091357] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529475481655	Marionette	INFO	Listening on port 64001
+1529475481678	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-19 23:18:02.151 plugin-container[3712:1091577] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 3: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529895182993	geckodriver	INFO	geckodriver 0.21.0
+1529895183011	geckodriver	INFO	Listening on 127.0.0.1:60317
+1529895184028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.zz1qqS0AFurq"
+2018-06-24 19:53:05.990 plugin-container[6570:1884040] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7607, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529895186555	Marionette	INFO	Listening on port 60332
+1529895186596	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-24 19:53:07.126 plugin-container[6571:1884117] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 4: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 1: TypeError: e[i] is undefined
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1529895213714	geckodriver	INFO	geckodriver 0.21.0
+1529895213727	geckodriver	INFO	Listening on 127.0.0.1:60514
+1529895214752	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.wcpkLoFFuUXK"
+2018-06-24 19:53:36.164 plugin-container[6582:1885979] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529895216689	Marionette	INFO	Listening on port 60529
+1529895216729	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-24 19:53:37.192 plugin-container[6583:1886060] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 4: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 1: TypeError: e[i] is undefined
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529896603870	geckodriver	INFO	geckodriver 0.21.0
+1529896603880	geckodriver	INFO	Listening on 127.0.0.1:65157
+1529896604903	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.0b9TvPmbyWA2"
+2018-06-24 20:16:46.416 plugin-container[6644:1923154] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529896606869	Marionette	INFO	Listening on port 65172
+1529896606956	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-24 20:16:47.428 plugin-container[6645:1923229] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 4: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 1: TypeError: e[i] is undefined
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529896676170	geckodriver	INFO	geckodriver 0.21.0
+1529896676177	geckodriver	INFO	Listening on 127.0.0.1:65429
+1529896677202	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.pu2nat1GYIrK"
+2018-06-24 20:17:58.671 plugin-container[6654:1927875] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529896679129	Marionette	INFO	Listening on port 65444
+1529896679160	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-24 20:17:59.687 plugin-container[6655:1928045] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 4: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 1: TypeError: e[i] is undefined
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529896708969	geckodriver	INFO	geckodriver 0.21.0
+1529896708977	geckodriver	INFO	Listening on 127.0.0.1:49211
+1529896710001	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.Unzzo3DLnduP"
+2018-06-24 20:18:31.552 plugin-container[6667:1931040] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8107, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529896711979	Marionette	INFO	Listening on port 49222
+1529896712082	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-24 20:18:32.522 plugin-container[6668:1931153] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 4: unreachable code after return statement
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 1: TypeError: e[i] is undefined
+JavaScript error: https://cdn2.editmysite.com/js/site/main.js?buildTime=1404413905, line 5: TypeError: Invalid template! Template should be a "string" but "undefined" was given as the first argument for mustache#render(template, view, partials)
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529900825539	geckodriver	INFO	geckodriver 0.21.0
+1529900825556	geckodriver	INFO	Listening on 127.0.0.1:63615
+1529900826571	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.nQr62qyTHQcA"
+2018-06-24 21:27:08.671 plugin-container[7177:2112627] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529900829294	Marionette	INFO	Listening on port 63626
+1529900829351	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-24 21:27:09.798 plugin-container[7178:2112743] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x752b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js, line 478: TypeError: content.text is undefined
+console.error: (new TypeError("content.text is undefined", "resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js", 478))
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:478:1
+fetchStylesheet@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:408:18
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:388:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:358:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1260:12
+getApplied@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:472:13
+console.error: "Protocol error (unknownError): content.text is undefined"
+console.error: "Protocol error (unknownError): content.text is undefined"
+1529901136351	geckodriver	INFO	geckodriver 0.21.0
+1529901136366	geckodriver	INFO	Listening on 127.0.0.1:64910
+1529901137388	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.tRJGxT0Fq1hE"
+2018-06-24 21:32:18.995 plugin-container[7233:2132370] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529901139420	Marionette	INFO	Listening on port 64926
+1529901139447	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-24 21:32:19.969 plugin-container[7234:2132553] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529901191366	geckodriver	INFO	geckodriver 0.21.0
+1529901191374	geckodriver	INFO	Listening on 127.0.0.1:65214
+1529901192415	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/mspc26zj71x9gqtz0l_6j_zh0000gn/T/rust_mozprofile.gMrcrZjbvkpv"
+2018-06-24 21:33:13.789 plugin-container[7245:2137375] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7407, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529901194232	Marionette	INFO	Listening on port 65225
+1529901194279	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-24 21:33:14.765 plugin-container[7246:2137469] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1529712366, line 4: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
