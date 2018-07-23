@@ -17,11 +17,11 @@ class SwitchToWindow(unittest.TestCase):
     def test_switchToFacebookWindow(self):
 
         # Locators
-        facebookSharingLinkLocator = "a.wsite-com-product-social-facebook"
-        facebookUsernameFieldID = "email"
-        facebookPasswordFieldID = "pass"
-        facebookLoginButtonName = "login"
-        facebookShareLinkButtonXpath = "//span[contains(text(), 'Post to Facebook')]"
+        facebookSharingLinkLocator      = "a.wsite-com-product-social-facebook"
+        facebookUsernameFieldID         = "email"
+        facebookPasswordFieldID         = "pass"
+        facebookLoginButtonName         = "login"
+        facebookShareLinkButtonXpath    = "//span[contains(text(), 'Post to Facebook')]"
 
         # Facebook credentials.
         facebookUsername = "tutorys123@gmail.com"
